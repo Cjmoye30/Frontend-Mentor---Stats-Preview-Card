@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/Cjmoye30/Frontend-Mentor---Stats-Preview-Card/issues/1#issue-1007220307)
-![]()
+
+![image](https://user-images.githubusercontent.com/90322735/134563022-7084dbe9-e8f9-42d6-9a14-6a3c8505e541.png)
 
 ### Links
 
