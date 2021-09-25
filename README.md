@@ -7,14 +7,12 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,12 +28,7 @@ Users should be able to:
 
 
 ![image](https://user-images.githubusercontent.com/90322735/134788294-53f7ce2e-a0e0-41c6-9f80-931d7959f9c8.png)
-![image]()
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![image](https://user-images.githubusercontent.com/90322735/134788370-5050deb5-8250-4448-b877-61f8d19a2201.png)
 
 ## My process
 
