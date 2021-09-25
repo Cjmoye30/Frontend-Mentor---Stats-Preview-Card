@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Cjmoye30/Frontend-Mentor---Stats-Preview-Card/issues/1#issue-1007220307)
+![]()
 
 ### Links
 
