@@ -14,8 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -55,6 +53,5 @@ I want to focus on developing my knowledge of the grid system, and best practice
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Udemy - The Complete 2021 Web Development Bootcamp - Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/?src=sac&kw=)
+- Website - [Skillshare - Responsive Web Design Essentials - HTML5 CSS3 Bootstrap - Daniel Scott](https://www.skillshare.com/classes/Responsive-Web-Design-Essentials-HTML5-CSS3-Bootstrap/236553264/projects)
